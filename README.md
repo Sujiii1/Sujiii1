@@ -12,7 +12,10 @@
 <code><img height="20" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></code>
-
+<code><img height="20" src="https://img.shields.io/badge/Maya-000000?style=for-the-badge&logo=autodesk&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/3ds%20Max-000000?style=for-the-badge&logo=autodesk&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Substance-FF6C39?style=for-the-badge&logo=adobe&logoColor=white"></code>
 <br>
 
 <p align='center'>
