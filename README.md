@@ -15,7 +15,7 @@
 <code><img height="20" src="https://img.shields.io/badge/Maya-000000?style=for-the-badge&logo=autodesk&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/3ds%20Max-000000?style=for-the-badge&logo=autodesk&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Substance-FF6C39?style=for-the-badge&logo=adobe&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Substance-FF6C39?style=for-the-badge&logo=adobecreativecloud&logoColor=white"></code>
 <br>
 
 <p align='center'>
